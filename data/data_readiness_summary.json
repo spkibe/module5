@@ -1,0 +1,26 @@
+{
+  "input_rows": 5000,
+  "output_rows": 5000,
+  "duplicates_removed": 0,
+  "missing_values": {
+    "customer_id": 0,
+    "age": 0,
+    "gender": 0,
+    "subscription_type": 0,
+    "watch_hours": 0,
+    "last_login_days": 0,
+    "region": 0,
+    "device": 0,
+    "monthly_fee": 0,
+    "churned": 0,
+    "payment_method": 0,
+    "number_of_profiles": 0,
+    "avg_watch_time_per_day": 0,
+    "favorite_genre": 0
+  },
+  "target_distribution": {
+    "1": 2515,
+    "0": 2485
+  },
+  "avg_watch_over_24h": 10
+}

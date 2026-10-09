@@ -1,0 +1,20 @@
+{
+  "best_model": "gradient_boosting",
+  "training_features": [
+    "watch_hours",
+    "last_login_days",
+    "monthly_fee",
+    "number_of_profiles",
+    "avg_watch_time_per_day",
+    "subscription_type",
+    "region",
+    "device",
+    "payment_method",
+    "favorite_genre"
+  ],
+  "excluded": [
+    "customer_id",
+    "age",
+    "gender"
+  ]
+}
